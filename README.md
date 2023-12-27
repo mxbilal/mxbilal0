@@ -3,7 +3,7 @@
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/mxbilal0/"><img height="30" src="https://github.com/mxbilal0/mxbilal0/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/mxbilal0/"><img height="30" src="https://github.com/mxbilal0/mxbilal0/blob/main/linkedin.png"></a>
 &nbsp;&nbsp;
 </p>
 I am currently voluntarily working as a Software Developer for Wikimedia Foundation. I am passionate about the latest trends in technology and am always in search of my next challenge.
