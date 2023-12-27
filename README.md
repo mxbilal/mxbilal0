@@ -10,7 +10,7 @@ I am currently voluntarily working as a Software Developer for Wikimedia Foundat
 
 
 <br/><br/>
-[![Profile Views](https://komarev.com/ghpvc/?username=mxbilal0&color=blue&style=plastic)](https://github.com/mxbilal0) <br>
+![](https://hit.yhype.me/github/profile?user_id=93067815) <br>
 
 
 
