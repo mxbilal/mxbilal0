@@ -26,9 +26,8 @@ I have been working as a Frontend Developer for the past 2.5 years, where I have
 
 ### Connect with Me
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- GitHub: [Your GitHub Profile](https://github.com/mxbilal0)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mxbilal0)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 🚀
 
