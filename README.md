@@ -9,7 +9,7 @@
 ### Skills
 
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js
+- **Frameworks/Libraries:** React, Next.js, NODE.JS, Express Js
 - **Styling:** Tailwind CSS, SCSS
 - **UI Libraries:** Material-UI
 
