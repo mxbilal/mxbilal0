@@ -4,7 +4,7 @@
 
 ## Frontend Developer
 
-👋 Hello! I'm Muhammad Bilal, a passionate Frontend Developer with 2.5 years of experience in building responsive and dynamic web applications. My expertise lies in utilizing modern technologies and frameworks to create seamless user experiences.
+👋 Hello! I'm Muhammad Bilal, a passionate Frontend Developer with 3.5 years of experience in building responsive and dynamic web applications. My expertise lies in utilizing modern technologies and frameworks to create seamless user experiences.
 
 ### Skills
 
@@ -15,7 +15,7 @@
 
 ### Experience
 
-I have been working as a Frontend Developer for the past 2.5 years, where I have gained hands-on experience in:
+I have been working as a Frontend Developer for the past 3.5 years, where I have gained hands-on experience in:
 
 - Building scalable and maintainable React applications.
 - Utilizing Next.js for server-side rendering and improved performance.
